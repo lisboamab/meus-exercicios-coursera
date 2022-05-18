@@ -1,4 +1,6 @@
-count = 0
-while (count <= 10):
-    print (count, "Olá Mundo!")
-    count = count + 1
+fruit_info ={}
+fruit_info['variety'] = 'Red Delicious'
+print(fruit_info)
+
+my_keys = fruit_info.keys()
+print(my_keys)

@@ -1,4 +1,4 @@
-n = int(input("Digite um número natual para obter o fatorial do mesmo: "))
+n = int(input("Digite o valor de n: "))
 i = 1
 fatorialAcumulado = 1
 while i <= n:
