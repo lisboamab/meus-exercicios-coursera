@@ -12,7 +12,6 @@ def maior_primo(n):
 
     return(max(primos))
 """
-
 def maior_primo(entrada):
     primos = 0
     for i in reversed(range(entrada + 1)):
